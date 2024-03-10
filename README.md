@@ -2,7 +2,8 @@
 Detailed Steps To Open And Run Files
 
 --- 1) Download the "server_app2.py" and the "client_app2.py" files to the 'Downloads' folder on your computer.
---- 2) Once downloaded, open the terminal app that your computer supports (ex. Terminal for Mac) *you want to open 3 seperate windows of the terminal app*
+--- 2) Once downloaded, open the terminal app that your computer supports (ex. Terminal for Mac) *you want to open 3 seperate windows of the terminal app/ on mac to open 
+more terminal windows press command + n and more windows will pop up*
 --- 3) First, you need to open "server_app2.py" because you need to establish the server. To do that, on the first line type in.... cd ~/Downloads ... and press enter
 --- On the second line type in ... python3 server_app2.py ... and press enter   *the server should be established and running now*
 --- 4) Second, you need to open "client_app2.py" in a new terminal so you can use the functions of the app. To do that, on the first line type in ... cd ~/Downloads ... and press enter
